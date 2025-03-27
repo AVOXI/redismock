@@ -64,5 +64,4 @@ RedisClient:
 RedisCluster
 
 - `Subscribe` / `PSubscribe`
-- `Pipeline` / `TxPipeline`
 - `Watch`

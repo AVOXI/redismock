@@ -413,6 +413,7 @@ type ClientMock interface {
 
 type ClusterClientMock interface {
 	baseMock
+	pipelineMock
 }
 
 func inflow(cmd redis.Cmder, key string, val interface{}) {
