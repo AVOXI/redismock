@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/go-redis/redismock/v9"
+	"github.com/AVOXI/redismock/v9"
 )
 
 var _ = example

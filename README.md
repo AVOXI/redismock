@@ -7,7 +7,7 @@ Provide mock test for redis query, Compatible with github.com/redis/go-redis/v9
 Confirm that you are using redis.Client the version is github.com/redis/go-redis/v9
 
 ```go
-go get github.com/go-redis/redismock/v9
+go get github.com/AVOXI/redismock/v9
 ```
 
 ## Quick Start
